@@ -13,5 +13,16 @@
   height: 95vh;
   width: 100%;
   background: cover;
-  position: relative;
+}
+
+.fotocontainer.rome{
+  background-image: url("../img/rome.jpg");
+}
+
+.fotocontainer.copenaghen{
+  background-image: url("../img/copenaghen.jpg");
+}
+
+.fotocontainer.tokyo{
+  background-image: url("../img/tokyo.jpg");
 }
