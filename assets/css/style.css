@@ -5,7 +5,6 @@
 }
 
 .container{
-  text-align: center;
   overflow: auto;
 }
 
@@ -34,4 +33,12 @@
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
