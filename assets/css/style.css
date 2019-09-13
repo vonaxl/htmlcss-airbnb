@@ -13,6 +13,8 @@
   height: 95vh;
   width: 100%;
   background: cover;
+  margin: 10px;
+  position: relative;
 }
 
 .fotocontainer.rome{
@@ -25,4 +27,11 @@
 
 .fotocontainer.tokyo{
   background-image: url("../img/tokyo.jpg");
+}
+
+.layover{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
 }
