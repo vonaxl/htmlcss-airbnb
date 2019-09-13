@@ -8,3 +8,10 @@
   text-align: center;
   overflow: auto;
 }
+
+.fotocontainer{
+  height: 95vh;
+  width: 100%;
+  background: cover;
+  position: relative;
+}
